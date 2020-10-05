@@ -6,8 +6,8 @@ Prowadzący zajęcia:
 
 - _Wykład_: Bogumił Kamiński, [http://bogumilkaminski.pl](http://bogumilkaminski.pl/)
 - _Ćwiczenia_: 
-* Gr 1 - Michał Kot
-* Gr 2,3,4 - Łukasz Kraiński
+  * Gr 1 - Michał Kot
+  * Gr 2,3,4 - Łukasz Kraiński
 
 Godziny i lokalizacja zajęć:
 
@@ -49,13 +49,13 @@ Godziny i lokalizacja zajęć:
 ### Literatura
 
 - Stephen Boyd and Lieven Vandenberghe, Introduction to Applied Linear Algebra
-( <http://vmls-book.stanford.edu/> )
+(<http://vmls-book.stanford.edu/>)
 - Gareth J., Witten D., Hastie T., Tibshirani R. (2013), An Introduction to Statistical Learning with Applications in R ([http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/))
 - Kamiński B., Zawisza M. (2012), Receptury w R. Podręcznik dla ekonomisty, Oficyna Wydawnicza SGH ([http://bogumilkaminski.pl/projekty/](http://bogumilkaminski.pl/projekty/))
 - Hastie T., Tibshirani R., Friedman (2013), The Elements of Statistical Learning
 ([http://www-stat.stanford.edu/~tibs/ElemStatLearn/](http://www-stat.stanford.edu/~tibs/ElemStatLearn/))
 - B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018
-( <https://www.packtpub.com/application-development/julia-10-programming-cookbook> )
+(<https://www.packtpub.com/application-development/julia-10-programming-cookbook>)
 
 
 ### Zasady zaliczenia zajęć
