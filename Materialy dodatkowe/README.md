@@ -15,6 +15,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 
 ## :snake: Python language
 - Czekam na Pull Requesty
+- **[100 pandas tricks to save you time and energy](https://www.dataschool.io/python-pandas-tips-and-tricks/)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
@@ -29,6 +30,10 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Dawid Kopczyk - Enthusiastically about algorithms](http://dkopczyk.quantee.co.uk/)**
 - **[50+ Free Data Science Books - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books?fbclid=IwAR2C5jVhRxlAPZuri3R0CTtnRG5VHgoaOibP0xbpZSYbJNz2BWN8PSzEHBg)**
 - **[Deep Learning For Coders—36 hours of lessons for free](http://course18.fast.ai/ml.html)**
+- **[Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)**
+- **[scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)**
+- **[Machine Learning Mastery](https://machinelearningmastery.com/start-here/)**
+- **[List of awesome machine learning frameworks, libraries an](https://github.com/josephmisiti/awesome-machine-learning)**
 
 ## 🔮 Deep learning/Sieci neuronowe
 - **[The Neural Network Zoo - The Asimov Institute](https://www.asimovinstitute.org/neural-network-zoo/)**
@@ -44,6 +49,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Certain about uncertainty – Maths is fun. And fun is maths!](https://paularowinska.wordpress.com/)**
 - **[Spurious Correlations](http://www.tylervigen.com/spurious-correlations)**
 - **[Probably Overthinking It – Data science, Bayesian Statistics, and other ideas](https://www.allendowney.com/blog/)**
+- **[Seeing Theory](https://seeing-theory.brown.edu/)**
 
 ## :book: Darmowe książki programistyczne
 - **[Free Programming Books – GoalKicker.com](https://goalkicker.com/)**
