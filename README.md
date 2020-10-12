@@ -38,7 +38,7 @@ Godziny i lokalizacja zajęć:
 
 | Numer ćwiczeń | Tematyka zajęć |
 | --- | --- |
-| 1 | Programowanie w języku R (zajęcia wyrównawcze) |
+| 1 | Programowanie w języku R i Python (zajęcia wyrównawcze) |
 | 2 | Metody oceny jakości modeli klasyfikacyjnych |
 | 3 | Nieparametryczne modele regresyjne: smoothing spline, LOESS, GAM |
 | 4 | Klasyczne modele uczenia maszynowego: CART, random forest |
