@@ -60,14 +60,52 @@ Godziny i lokalizacja zajęć:
 
 ### Zasady zaliczenia zajęć
 
-Punktacja zajęć:
-
 Wszystkie materiały zaliczeniowe wysyłane są do ćwiczeniowców.
 
-- Raport indywidualny z budowy modelu (50 punktów): zgodnie z zasadami ustalonymi na
-ćwiczeniach
-- Zaliczenie ćwiczeń (50 punktów); na ostatnich ćwiczeniach; prowadzone on-line
-- Dodatkowe punkty: prace domowe, konkurs, realizacja kursu https://juliaacademy.com/p/introduction-to-dataframes-jl (5 pkt)
+---
+
+#### Raport indywidualny z budowy modelu (50 punktów)
+
+Do stworzenia raportu proszę wykorzystać zbiór danych: https://archive.ics.uci.edu/ml/datasets/Adult.
+
+Zadanie polega na analizie danych, przeprowadzeniu procesu modelowania i sporządzeniu raportu o następującej strukturze:
+
+`5pkt` 1) Wprowadzanie i opis wybranego problemu (klasyfikacja lub regresja), opis atrybutów, itd.
+
+`10pkt` 2) Czyszczenie i wstępne przetwarzanie danych - usuwanie lub imputacja brakujących danych, standaryzacja, kodowanie typu one-hot, obsługa wartości odstających itp.
+
+`10pkt` 3) Graficzna i opisowa analiza eksploracyjna (EDA), wykonanie i opisanie wyników segmentacji (klastrowania) rekordów, graficzna prezentacja zależności pomiędzy wybraną zmienną celu i zmiennymi niezależnymi
+
+`10pkt` 4) Stworzenie modeli i tuning hiperparametrów do zadania klasyfikacji lub regresji
+
+`10pkt` 5) Graficzna i opisowa ocena/wybór modelu
+
+`5pkt` 6) Podsumowanie wyników, dyskusja na temat napotkanych problemów/wyzwań i zastosowanych rozwiązań
+
+Za wykonanie analizy w Pythonie otrzymują Państwo dodatkowe `2pkt`.
+
+Kod i opisy/komentarze powinny zawierać się w notatniku Jupyter lub pliku R Markdown. 
+
+Raporty proszę przesyłać na adres _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_ z następującą konwencją nazewnictwa plików: <numer_indeksu>_SRD_Z2021_Raport.\<rozszerzenie\> . Termin oddania raportów to **18.01.2021 EOD**. 
+ 
+Każdy mail powinien mieć 2 załączniki: 
+- dla Jupyter: plik `.ipynb` i plik `.html` lub `.pdf` wygenerowany z notebooka, 
+- dla R Markdown: plik  `.Rmd` i plik `.html` lub `.pdf` wygenerowany z pliku `.Rmd`.
+
+---
+
+#### Zaliczenie ćwiczeń (50 punktów)
+* na ostatnich ćwiczeniach; prowadzone on-line
+
+---
+
+#### Dodatkowe punkty 
+ * Pull Request rozszerzający materiały dodatkowe na poniższym repozytorium `2pkt`
+ * Wykonanie raportu końcowego w Pythonie `2pkt`
+ * Konkurs modelarski - max `5pkt`
+ * Realizacja kursu https://juliaacademy.com/p/introduction-to-dataframes-jl `5pkt` - proszę przesyłać certyfikaty ukończenia kursu na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_
+
+---
 
 Na podstawie sumy punktów (maksymalnie 100) wyznaczana jest ocena końcowa:
 
