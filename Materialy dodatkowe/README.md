@@ -18,6 +18,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[100 pandas tricks to save you time and energy](https://www.dataschool.io/python-pandas-tips-and-tricks/)**
 - **[Analyzing Data with Python - edX free course](https://www.edx.org/course/analyzing-data-with-python)**
 - **[Awesome Python](https://github.com/vinta/awesome-python)**
+- **[Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
