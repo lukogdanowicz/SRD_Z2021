@@ -19,6 +19,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[100 pandas tricks to save you time and energy](https://www.dataschool.io/python-pandas-tips-and-tricks/)**
 - **[Analyzing Data with Python - edX free course](https://www.edx.org/course/analyzing-data-with-python)**
 - **[Awesome Python](https://github.com/vinta/awesome-python)**
+- **[Python - Basic Syntax & More](https://www.tutorialspoint.com/python/python_basic_syntax.htm?fbclid)**
 - **[Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)**
 - **[Python Pandas Tutorial 2020](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)**
 - **[Data Analysis 2020 - Numpy, Pandas, Matplotlib, Seaborn](https://youtu.be/r-uOLxNrNk8)**
