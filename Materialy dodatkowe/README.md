@@ -12,6 +12,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)**
 - **[Ten random useful things in R that you might not know about](https://towardsdatascience.com/ten-random-useful-things-in-r-that-you-might-not-know-about-54b2044a3868?fbclid=IwAR1r4kLfRX-OMNt59TfUSvJ-RZF57TB9Ohl1plEe6ruDJkRuyYBdoc6xROY)**
 - **[Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab)](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911?fbclid=IwAR0Jn1CDrEGzBMqX2YOVL9Ec6muXQGXmwuBRLypU_-GDHCuH3sdbw5HIY5s)**
+- **[Statystyka w R](https://statslectures.com/r-stats-videos-tutorials)**
 
 ## :snake: Python language
 - Czekam na Pull Requesty
@@ -25,6 +26,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Econometrics in R](https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)**
 - **[Forecasting: Principles and Practice](https://otexts.com/fpp2/)**
 - **[R-econometrics](https://www.r-econometrics.com/)**
+- **[Kanał na YouTubie z zagadnieniami statystycznymi](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)**
+- **[Podstawy statystyki](https://www.statystyka.az.pl/regresja-logistyczna.php)**
 
 ## 🤖 Machine learning
 - **[Mathematics for Machine Learning](https://mml-book.github.io/)**
@@ -37,6 +40,11 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)**
 - **[Machine Learning Mastery](https://machinelearningmastery.com/start-here/)**
 - **[List of awesome machine learning frameworks, libraries an](https://github.com/josephmisiti/awesome-machine-learning)**
+- **[Machine Learning- kursy (Python, R)](https://www.dataschool.io/ml-courses/)**
+- **[Blog z dziedziny machine Learningu](https://www.nosimpler.me/machine-learning/)**
+- **[Book Machine Learning Tom Mitchell](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)**
+- **[The article about ID3 algorytm](https://medium.com/machine-learning-guy/an-introduction-to-decision-tree-learning-id3-algorithm-54c74eb2ad55)**
+
 
 ## 🔮 Deep learning/Sieci neuronowe
 - **[The Neural Network Zoo - The Asimov Institute](https://www.asimovinstitute.org/neural-network-zoo/)**
@@ -53,6 +61,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Spurious Correlations](http://www.tylervigen.com/spurious-correlations)**
 - **[Probably Overthinking It – Data science, Bayesian Statistics, and other ideas](https://www.allendowney.com/blog/)**
 - **[Seeing Theory](https://seeing-theory.brown.edu/)**
+- **[Kanał Lexa Friedmana z podcastami poruszającymi tematykę nowych technologi, sztucznej inteligencji, uczenie maszynowe, programowanie, deep learning etc](https://www.youtube.com/c/lexfridman/featured)**
 
 ## :book: Darmowe książki programistyczne
 - **[Free Programming Books – GoalKicker.com](https://goalkicker.com/)**
