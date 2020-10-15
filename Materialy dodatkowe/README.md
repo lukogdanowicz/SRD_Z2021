@@ -20,6 +20,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Analyzing Data with Python - edX free course](https://www.edx.org/course/analyzing-data-with-python)**
 - **[Awesome Python](https://github.com/vinta/awesome-python)**
 - **[Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)**
+- **[Python Pandas Tutorial 2020](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)**
+- **[Data Analysis 2020 - Numpy, Pandas, Matplotlib, Seaborn](https://youtu.be/r-uOLxNrNk8)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
@@ -40,6 +42,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)**
 - **[Machine Learning Mastery](https://machinelearningmastery.com/start-here/)**
 - **[List of awesome machine learning frameworks, libraries an](https://github.com/josephmisiti/awesome-machine-learning)**
+- **[Machine Learning - Theory and Practice in Python](https://python.astrotech.io/machine-learning/index.html)**
 - **[Machine Learning- kursy (Python, R)](https://www.dataschool.io/ml-courses/)**
 - **[Blog z dziedziny machine Learningu](https://www.nosimpler.me/machine-learning/)**
 - **[Book Machine Learning Tom Mitchell](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)**
