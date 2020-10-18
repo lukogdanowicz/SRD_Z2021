@@ -23,6 +23,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)**
 - **[Python Pandas Tutorial 2020](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)**
 - **[Data Analysis 2020 - Numpy, Pandas, Matplotlib, Seaborn](https://youtu.be/r-uOLxNrNk8)**
+- **[Warsztat - Python Data Science](https://github.com/MichalKorzycki/WarsztatPythonDataScience)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
