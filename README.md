@@ -95,7 +95,9 @@ Każdy mail powinien mieć 2 załączniki:
 ---
 
 #### Zaliczenie ćwiczeń (50 punktów)
-* na ostatnich ćwiczeniach; prowadzone on-line
+* Pisemne kolokwium na ostatnich ćwiczeniach
+* Każdy z Państwa otrzyma spersonalizowany zestaw zadań w pliku `.R`. Zadania będą obejmować przykłady praktyczne wymagające wykorzystanie kodu omawianego na ćwiczeniach oraz zadania teoretyczne sprawdzające znajomość zagadnień i koncepcji poruszonych w trakcie semestru. Jest wymagana tylko znajomość kodu R, zagadnienia omawiane przy materiałach w Pythonie mogą pojawić się w części teoretycznej.
+* Wypełniony plik z odpowiedziami należy wysłać na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_ do końca zajęć
 
 ---
 
@@ -103,6 +105,10 @@ Każdy mail powinien mieć 2 załączniki:
  * Pull Request rozszerzający materiały dodatkowe na poniższym repozytorium `2pkt`
  * Wykonanie raportu końcowego w Pythonie `2pkt`
  * Konkurs modelarski - max `5pkt`
+   * Konkurs będzie przeprowadzony na przedostatnich zajęciach
+   * Zadaniem będzie optymalizacja określonej miary jakości modelu np. accuracy w klasyfikacji zadanej zmiennej na udostępnionym zbiorze danych
+   * Praca będzie przebiegać w grupach 2-3 osobowych, do końca zajęć będzie możliwość wysyłania kodu i predykcji na danych testowych na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_
+    * Zespół, który osiągnie najlepszy wynik miary jakości otrzyma 5pkt, kolejny 4pkt, itd.
  * Realizacja kursu https://juliaacademy.com/p/introduction-to-dataframes-jl `5pkt` - proszę przesyłać certyfikaty ukończenia kursu na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_
 
 ---
