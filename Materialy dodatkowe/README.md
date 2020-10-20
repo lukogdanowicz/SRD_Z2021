@@ -25,6 +25,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Data Analysis 2020 - Numpy, Pandas, Matplotlib, Seaborn](https://youtu.be/r-uOLxNrNk8)**
 - **[Warsztat - Python Data Science](https://github.com/MichalKorzycki/WarsztatPythonDataScience)**
 - **[Kaggle courses](https://www.kaggle.com/learn/overview)**
+- **[The Python Tutorial - Documentation](https://docs.python.org/3/tutorial/index.html)**
+
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
@@ -63,6 +65,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Lyrn.AI - Deep Learning Explained](https://www.lyrn.ai/)**
 - **[Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://en.d2l.ai/)**
 - **[Deep Learning Book](http://www.deeplearningbook.org/)**
+- **[Deep Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)**
 
 ## :game_die: Statystyka z przymrużeniem oka
 - **[Certain about uncertainty – Maths is fun. And fun is maths!](https://paularowinska.wordpress.com/)**
