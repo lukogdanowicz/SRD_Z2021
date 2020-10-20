@@ -24,6 +24,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Python Pandas Tutorial 2020](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)**
 - **[Data Analysis 2020 - Numpy, Pandas, Matplotlib, Seaborn](https://youtu.be/r-uOLxNrNk8)**
 - **[Warsztat - Python Data Science](https://github.com/MichalKorzycki/WarsztatPythonDataScience)**
+- **[Kaggle courses](https://www.kaggle.com/learn/overview)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
@@ -49,6 +50,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Blog z dziedziny machine Learningu](https://www.nosimpler.me/machine-learning/)**
 - **[Book Machine Learning Tom Mitchell](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)**
 - **[The article about ID3 algorytm](https://medium.com/machine-learning-guy/an-introduction-to-decision-tree-learning-id3-algorithm-54c74eb2ad55)**
+- **[Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow - repository](https://github.com/ageron/handson-ml2)**
+- **[Kaggle courses](https://www.kaggle.com/learn/overview)**
 
 
 ## 🔮 Deep learning/Sieci neuronowe
