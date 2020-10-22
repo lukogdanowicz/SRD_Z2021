@@ -54,7 +54,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[The article about ID3 algorytm](https://medium.com/machine-learning-guy/an-introduction-to-decision-tree-learning-id3-algorithm-54c74eb2ad55)**
 - **[Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow - repository](https://github.com/ageron/handson-ml2)**
 - **[Kaggle courses](https://www.kaggle.com/learn/overview)**
-
+- **[Machine Learning Study Groups](https://www.youtube.com/channel/UCMEQFEKrsRFBXnUIreTACxg)**
 
 ## 🔮 Deep learning/Sieci neuronowe
 - **[The Neural Network Zoo - The Asimov Institute](https://www.asimovinstitute.org/neural-network-zoo/)**
